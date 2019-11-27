@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413163512763",
+    "firebase_url": "https://ai-coffee-blend.firebaseio.com",
+    "project_id": "ai-coffee-blend",
+    "storage_bucket": "ai-coffee-blend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413163512763:android:1aeba9121680c20ff05a9e",
+        "android_client_info": {
+          "package_name": "com.example.coffee_test_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413163512763-f9fhatuhtkev358kp8jdptoie2shtm61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQbYuMtBpMEJ58aKLdaHBxfMUcDYccPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413163512763-f9fhatuhtkev358kp8jdptoie2shtm61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
